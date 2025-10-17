@@ -80,13 +80,4 @@ Combine all charts on a dark-themed dashboard with red accents to match Netflix 
 - Netflix movies and TV shows dataset (CSV file)
 
 ---
-
-## Usage
-
-1. Download or clone this repository.
-2. Open the Tableau workbook (if provided), or recreate the visualizations as described above using your dataset.
-3. Review the images in the `/images` folder for visual reference.
-
----
  
-
