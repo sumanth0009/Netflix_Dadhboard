@@ -69,7 +69,7 @@ Combine all charts on a dark-themed dashboard with red accents to match Netflix 
 
 #### Final Dashboard Example
 
-![Netflix Dashboard](https://github.com/sumanth0009/Netflix_Dadhboard/blob/main/Screenshot%202025-10-17%20132419.png?raw=true)
+![Netflix Dashboard](https://github.com/sumanth0009/Netflix_Dadhboard/blob/main/Netflix.png?raw=true)
 
 ---
 
