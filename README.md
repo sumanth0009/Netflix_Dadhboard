@@ -35,7 +35,7 @@ Connect Tableau Desktop to your cleaned dataset and check that all fields are co
 
 This map shows the total number of movies and TV shows contributed by each country.
 
-![By Country](images/Screenshot-2025-10-17-134259.jpg)
+![By Country](https://github.com/sumanth0009/Netflix_Dadhboard/blob/main/Screenshot%202025-10-17%20134259.png?raw=true)
 
 ---
 
@@ -43,7 +43,7 @@ This map shows the total number of movies and TV shows contributed by each count
 
 A bar chart indicating the distribution of content by their ratings.
 
-![Ratings Bar Chart](images/Screenshot-2025-10-17-134315.jpg)
+![Ratings Bar Chart](https://github.com/sumanth0009/Netflix_Dadhboard/blob/main/Screenshot%202025-10-17%20134315.png?raw=true)
 
 ---
 
@@ -51,7 +51,7 @@ A bar chart indicating the distribution of content by their ratings.
 
 A horizontal bar chart showing the most popular genres on Netflix.
 
-![Top 10 Genres](images/Screenshot-2025-10-17-134338.jpg)
+![Top 10 Genres](https://github.com/sumanth0009/Netflix_Dadhboard/blob/main/Screenshot%202025-10-17%20134338.png?raw=true)
 
 ---
 
@@ -59,7 +59,7 @@ A horizontal bar chart showing the most popular genres on Netflix.
 
 A bubble chart visualizing the proportion of movies and TV shows in the dataset.
 
-![Movies vs TV Shows Distribution](images/Screenshot-2025-10-17-134327.jpg)
+![Movies vs TV Shows Distribution](https://github.com/sumanth0009/Netflix_Dadhboard/blob/main/Screenshot%202025-10-17%20134327.png?raw=true)
 
 ---
 
